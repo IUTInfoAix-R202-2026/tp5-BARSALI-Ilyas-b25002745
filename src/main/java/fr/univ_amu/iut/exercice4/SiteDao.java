@@ -78,6 +78,7 @@ public class SiteDao {
     // - lier les 5 paramètres dans l'ordre des colonnes (setString) ;
     // - exécuter avec executeUpdate() ;
     // - envelopper toute SQLException dans une DataAccessException.
+
   }
 
   /** Met à jour les champs d'un site existant (identifié par son numéro de carré). */
