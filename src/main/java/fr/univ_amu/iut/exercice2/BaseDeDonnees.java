@@ -9,6 +9,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import javax.sql.DataSource;
 import org.sqlite.SQLiteConfig;
+import org.sqlite.SQLiteDataSource;
 
 /**
  * Exercice 2 : fournir une {@link DataSource} SQLite et initialiser le schéma.
